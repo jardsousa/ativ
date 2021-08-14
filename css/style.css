@@ -3,12 +3,9 @@ body {
   font-family: arial, sans-serif;
   font-size: 17px;
 }
-#elon {
+h1 {
   font-family: Audiowide, cursive;
   font-size: 30px;
-}
-
-.text-center {
   text-align: center;
 }
 
@@ -85,14 +82,14 @@ a.btn:hover {
   font-size: 2rem;
 }
 
-#f {
+i.fa-facebook-square {
   color: navy;
 }
 
-#t {
+i.fa-twitter-square {
   color: dodgerblue;
 }
-#l {
+i.fa-linkedin {
   color: navy;
 }
 @media print {
